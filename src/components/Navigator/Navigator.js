@@ -4,7 +4,7 @@ import './Navigator.css';
 function Navigator() {
     return (
         <div className="body">
-            <h1> Testess</h1>
+            <h1>Hello World - React JS</h1>
         </div>
     );
 }
